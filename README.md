@@ -1,2 +1,3 @@
-# travis-dss
-Repositorio para pruebas con Travis para DSS
+# README for travis-dss
+
+[![Build status](https://travis-ci.org/TatyPerson/travis-dss.svg?master)](https://travis-ci.org/TatyPerson)
