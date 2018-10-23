@@ -10,4 +10,4 @@ install:
 script: 
 
   - python hello.py
-  - pytest -v -rs hello-test.py
+  - pytest -v -rs hello_test.py
