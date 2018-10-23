@@ -11,3 +11,10 @@ script:
 
   - python hello.py
   - pytest -v -rs hello_test.py
+
+notifications:
+	email:
+	 recipients:
+		- tatyperson22@gmail.com
+	on_success: never
+	on_failure: always
